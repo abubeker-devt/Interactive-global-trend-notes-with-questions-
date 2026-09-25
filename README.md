@@ -4,7 +4,7 @@ A responsive, browser-based interactive quiz and study companion for the Global 
 
 ## 🌐 Live Demo
 
-👉 Open Global Trends Quiz
+https://abubeker-devt.github.io/Interactive-global-trend-notes-with-questions-/
 
 ## 👨‍💻 Developer
 
