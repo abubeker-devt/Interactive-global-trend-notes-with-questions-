@@ -46,16 +46,7 @@ Open `index.html` in a browser.
 No framework.
 No build step.
 
-## 🌐 Deploy on GitHub Pages
 
-1. Push this repo to GitHub (public).
-2. Go to **Settings → Pages**.
-3. Under "Build and deployment", set **Source** to `Deploy from a branch`, branch `main`, folder `/ (root)`.
-4. Save — your live URL will be `https://yourusername.github.io/repo-name/` within a minute or two.
-
-## ✏️ Editing Content
-
-All questions live in a single JSON object near the top of the `<script>` tag in `index.html`. Each unit has an `mcq` array (`q` question, `o` options, `a` correct answer index, `e` explanation) and an `explain` array (`q` question, `a` model answer). Edit directly and re-upload to update the site.
 
 ## 📌 Project Status
 
